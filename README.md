@@ -1,4 +1,4 @@
-# ckeditor_content
+# CKEditor Content
 A content block for concrete5 5.7, based on CKEditor
 
 This package allows  content to be edited inline by CKEditor. 
