@@ -21,9 +21,8 @@ CKEDITOR.editorConfig = function( config ) {
 		'/',
 		{ name: 'basicstyles', groups: [ 'basicstyles', 'cleanup' ] },
 		{ name: 'paragraph',   groups: [ 'list', 'indent', 'blocks', 'align', 'bidi' ] },
-
-		{ name: 'colors' },
-
+		{ name: 'styles' },
+		{ name: 'colors' }
 	];
 
 	// Remove some buttons provided by the standard plugins, which are
