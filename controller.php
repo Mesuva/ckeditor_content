@@ -10,7 +10,7 @@ class Controller extends Package {
 
     protected $pkgHandle = 'ckeditor_content';
     protected $appVersionRequired = '5.7.3';
-    protected $pkgVersion = '0.9.2';
+    protected $pkgVersion = '0.9.3';
 
     public function getPackageDescription() {
         return t("A content block based on CKEditor");
